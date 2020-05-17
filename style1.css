@@ -5,7 +5,7 @@
 }
 #header{
         height: 100vh;
-        background-image: url(images/donut7.png);
+        background-image: url(donut7.png);
         background-position: center;
         background-size: cover;
     
@@ -100,7 +100,7 @@ nav ul li a{
 
 /*----about---*/
 #about,#offer{ 
-  background: url(images/about.png);
+  background: url(about.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -183,7 +183,7 @@ nav ul li a{
 /*---careers---*/
 #careers{
     padding: 100px 0;
-    background-image: url(images/Delicate.jpg);
+    background-image: url(Delicate.jpg);
     background-size: cover;
 }
 .careers-row{
@@ -213,7 +213,7 @@ nav ul li a{
   margin-left: 90px;
 }     
 .careers-right-col {
-  background: url(images/course.png);
+  background: url(course.png);
   background-repeat: no-repeat ;
   background-position: right;
   background-size: contain;
@@ -246,7 +246,7 @@ nav ul li a{
 }
 
 .contact-right-col {
-  background: url("images/contact1.png");
+  background: url("contact1.png");
   background-repeat: no-repeat ;
   height: 400px;
   background-size: contain;
@@ -299,7 +299,7 @@ nav ul li a{
 }
 
 .carrers-right-col {
-  background-image: url(images/course.png);
+  background-image: url(course.png);
   background-position: right;
   background-size: contain;
   height: 500px;
